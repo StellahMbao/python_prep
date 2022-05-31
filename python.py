@@ -16,3 +16,7 @@ print(first_sentence.upper())
 print(second_sentence.isupper())
 print(second_sentence.upper().isupper())
 print(len(first_sentence))
+
+#indexing
+print(first_sentence.index('o'))
+print(first_sentence.replace('few', 'some'))
