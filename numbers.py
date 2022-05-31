@@ -25,7 +25,10 @@ print(floor(35.9))
 
 print(ceil(35.9))
 
-## input- allows user to input data which can be stored as a variable
+## input- allows user to input data which can be stored as a variable, makes program more interactive
 user_name = input(" Enter your name :")
 
 print("Hello" + " " + user_name + "!")
+
+user_age = input("Enter your age:")
+print("How old are you?" + " " + user_age)
