@@ -7,3 +7,5 @@ Thus far, I have been able to do quite a lot of interesting things on python. St
 
 # More progress
 Getting into the lists now
+### And?
+After playing around with if, else, elseif statements, i'm going to dive deeper into code and make a better calculator
