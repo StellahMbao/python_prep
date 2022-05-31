@@ -1,4 +1,4 @@
-# from math import *
+from math import *
 # from numpy import number
 favorite_number = 17
 print(favorite_number)

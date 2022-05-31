@@ -4,3 +4,6 @@ Super excited to be learning some python. As a beginner, it is almost intimidati
 
 # Progress
 Thus far, I have been able to do quite a lot of interesting things on python. Strings exercises and  so on. Now, let's get into the numbers
+
+# More progress
+Getting into the lists now
