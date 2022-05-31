@@ -25,13 +25,19 @@ print(month_dictionary.get('Dec'))
 #for a key that is not on the list
 print(month_dictionary.get('ok', 'Not a valid key'))
 
-
-
-
-
 ## while loop- block of code executed multiple times
 age = 1
 while age <= 10:
     print(age)
     age += 1
 print('Done with loop')
+
+#for loop - allows us to loop through different collection of items
+for letter in "Python beginner tutorial":
+    print(letter)
+
+friends = ['Kayla', 'Nancy', 'Margaret']
+len(friends)
+
+for friend in friends:
+    print(friend)
