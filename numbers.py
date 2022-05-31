@@ -1,4 +1,5 @@
-from math import *
+# from math import *
+# from numpy import number
 favorite_number = 17
 print(favorite_number)
 print(str(favorite_number) + " is the age where I discovered individuality, spirituality, and physicality.")
@@ -32,3 +33,10 @@ print("Hello" + " " + user_name + "!")
 
 user_age = input("Enter your age:")
 print("How old are you?" + " " + user_age)
+
+##building a calculator
+num1 = input("Enter a random number:")
+num2 = input("Enter another random number:")
+
+result1 = num1 + num2
+print(result1)
