@@ -13,4 +13,6 @@ After playing around with if, else, elseif statements, i'm going to dive deeper 
 ## Next
 Moving onto to dictionaries
 1. After crusing through loops, we are at exponents
+## more, more, progress
+Building a translator
 
